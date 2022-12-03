@@ -29,6 +29,8 @@ The file **Montgomery_Fleet_Equipment_Inventory.csv** has been converted to **.X
 
 
 
+
+
 ## Steps taken for Analyzing the data 
 Below steps has been completed:
 1. `Format the data as a table:` Using Format as Table option to format the data as a table.
