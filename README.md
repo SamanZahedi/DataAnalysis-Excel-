@@ -35,11 +35,11 @@ Below steps has been completed:
 
 2. `Use AutoSum to calculate values:` AutoSum to find the following values for column 'C' and record each of the below values:
 
-      1. SUM
-      2. AVERAGE
-      3. MIN
-      4. MAX
-      5. COUNT
+    1. SUM
+    2. AVERAGE
+    3. MIN
+    4. MAX
+    5. COUNT
 
 3. `Create a Pivot Table:` The PivotTable feature is used to create a pivot table that displays the Department field in the Rows section, and the Equipment Count in the Values section, so that the pivot table displays the sum of equipment count by department.
 
