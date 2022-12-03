@@ -8,7 +8,7 @@ The dataset is related to inventory information about the fleet of vehicles. The
 
 
 ## Steps taken for cleaning the data 
-The file **Montgomery_Fleet_Equipment_Inventory.csv** has been converted to **.XLSX** file using MS Excel, Then cleaned through the following steps:
+The file **Montgomery_Fleet_Equipment_Inventory.csv** has been converted to **.XLSX** file using Excel, Then cleaned through the following steps:
 
 
 1. `Save the CSV file as an XLSX file`
