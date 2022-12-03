@@ -25,7 +25,7 @@ The file **Montgomery_Fleet_Equipment_Inventory.csv** has been converted to **.X
 
 6. `Department names:` When the data was converted from its data source, the department names (see correct list below) didn’t import correctly and they are now split over two columns in the data. Flash Fill is used to reduce the department names to just one column, and then any unnecessary columns has been removed.
 
-### The cleaned dataset is saved as Montgomery_Fleet_Equipment_Inventory_PART_1.xlsx
+**The cleaned dataset is saved as Montgomery_Fleet_Equipment_Inventory_PART_1.xlsx**
 
 
 
@@ -35,15 +35,15 @@ Below steps has been completed:
 
 2. `Use AutoSum to calculate values:` AutoSum to find the following values for column 'C' and record each of the below values:
 
- 1. SUM
- 2. AVERAGE
- 3. MIN
- 4. MAX
- 5. COUNT
+      1. SUM
+      2. AVERAGE
+      3. MIN
+      4. MAX
+      5. COUNT
 
 3. `Create a Pivot Table:` The PivotTable feature is used to create a pivot table that displays the Department field in the Rows section, and the Equipment Count in the Values section, so that the pivot table displays the sum of equipment count by department.
 
 4. `Sort the pivot table data:` Using the Sort By Value setting on the pivot table to sort it in descending order by the sum of equipment count.
 The Equipment Class field is added below the Department field so that the different vehicle types appear under each department with their respective counts.
 
-### The Analyzed dataset is saved as Montgomery_Fleet_Equipment_Inventory_PART_2.xlsx
+**The Analyzed dataset is saved as Montgomery_Fleet_Equipment_Inventory_PART_2.xlsx**
